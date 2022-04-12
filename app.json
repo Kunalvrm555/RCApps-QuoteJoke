@@ -1,0 +1,16 @@
+{
+    "id": "9b548c11-8b15-48b0-836c-0fd41d966931",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.19.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": ".",
+        "homepage": ".",
+        "support": "."
+    },
+    "name": "QuoteJoke",
+    "nameSlug": "quotejoke",
+    "classFile": "QuoteJokeApp.ts",
+    "description": ".",
+    "implements": []
+}
